@@ -1,0 +1,9 @@
+﻿{
+  "Name": "SumChestLoot",
+  "Author": "Seawolf",
+  "Version": "0.1",
+  "Description": "This mod sums the sell price of the contents of the currently opened chest and displays it",
+  "UniqueID": "Seawolf.SumChestLoot",
+  "EntryDll": "SumChestLoot.dll",
+  "MinimumApiVersion": "3.5.0"
+}
